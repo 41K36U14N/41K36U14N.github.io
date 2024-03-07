@@ -14,35 +14,38 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Desma Deborah # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: my personal portfolio blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Follow me on my cyber security journey. 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "http://41K36U14N.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: 41K36U14N # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+instagram:
+  username: desma.deborah # change to your instagram username
+
+linkedin:
+  username: desma deborah # change to your linkedin username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Desma Deborah A
+  email: desmadeborahadh@hotmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://instagram.com/desma.deborah # change to your twitter homepage
+    - https://github.com/41K36U14N # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/desmadeborah
 
 google_site_verification: # fill in to your verification string
 
@@ -76,7 +79,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: c:\Users\Desma\OneDrive\Skrivebord\1709293537703.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
