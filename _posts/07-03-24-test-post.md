@@ -9,4 +9,4 @@ tags: [blog, it] # write the diffrent tags by placing a colom between words.
 
 # hello word  
 
-Hello world, this is mye personal blog.
+Hello world, this is my personal blog, this is just a testing post. dont mind it . 
