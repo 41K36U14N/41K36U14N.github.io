@@ -5,10 +5,10 @@ date: 2024-04-18 00:00:00 +0800
 categories: [Operating systems] 
 tags: [cybersecurity, it, operating systems] 
 ---
-
-### Lets talk dive into the world of operating systems (OS) together! 😃
+![OS header](/assets/OSs.jpg)
 
 ## What's an Operating System?
+Lets talk dive into the world of operating systems (OS) together! 😃
 
 Think of an operating system as the conductor of an orchestra. Just like a conductor directs musicians to play in harmony, an operating system manages your computer's hardware and software, ensuring they work together smoothly. It's like the heart and brain of your computer, keeping everything running smoothly behind the scenes.
 
@@ -59,3 +59,5 @@ An operating system (OS) is like the backbone of your computer or device, provid
 ## Conclusion
 
 Operating systems play a fundamental role in the functioning of modern computing devices, serving as the interface between users, applications, and hardware components. Whether you're a casual user, a professional, or a developer, understanding the different types of operating systems and their respective features can help you make informed decisions when choosing the right platform for your computing needs. With a plethora of options available, from Windows and macOS to Linux and mobile operating systems, there's an operating system out there to suit every preference and requirement.
+
+![OS](/assets/OS.jpg)
