@@ -23,4 +23,8 @@ In my downtime, you'll often find me immersed in gaming, whipping up delicious t
 
 I'm excited to connect with like-minded individuals and explore new opportunities together. Let's chat!
 
+> ps: One thing you are going to notice with my blog posts, is that I use lots of different analogies, mainly because thats how I learn best and take my notes. 
+Another reason to why I do this is because, in the tech world; you have to be able to teach or show people the hows, the whens, the wheres ect to non-technical people, and I find that people have a better understanding to things when it is more relatable to 'the norm'. 
+So buckle up for many analogies in baking, gym, gaming, farming and DIY's, since those are my hobbies hahaha 😆
+
 **"From student to cyber warrior, protecting the digital frontier. 🛡️ #AspiringCyberSpecialist"**
