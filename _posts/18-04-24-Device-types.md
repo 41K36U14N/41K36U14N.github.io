@@ -5,8 +5,6 @@ date: 2024-04-18 00:00:00 +0800
 categories: [Operating systems] 
 tags: [cybersecurity, it, operating systems] 
 ---
-![OS header](/assets/OSs.jpg)
-
 
 Welcome to our digital gym, where we're about to pump up our knowledge muscles and explore the three main types of devices that power our digital world. Just like how understanding the different types of gym equipment can enhance your workout routine, grasping the distinctions between dedicated, shared, and virtual devices can optimize your computer's performance. So lace up your virtual sneakers and let's hit the gym floor as we dive into this tech-savvy topic!
 
