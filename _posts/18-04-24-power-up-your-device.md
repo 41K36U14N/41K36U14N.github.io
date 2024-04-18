@@ -2,7 +2,7 @@
 
 title:  "Power up your device"
 date: 2024-03-14 00:00:00 +0800 
-categories: [Operating Systems] 
+categories: [Operating systems] 
 tags: [cybersecurity, it, operating systems] 
 ---
 ![On button](/assets/Power%20on.jpg)
