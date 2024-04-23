@@ -2,14 +2,11 @@
 
 title:  "Process Managment and Processor types"
 date: 2024-04-22 00:00:00 +0800 
-categories: [Operating systems] 
+categories: [Operating systems, Process Managment] 
 tags: [cybersecurity, it, operating systems, process managment, processor types] 
 ---
 
-##Exploring Process Management and Processor Types
-*(Farming analogy)*
-
-Welcome to our digital farmstead, where we're about to embark on a journey deep into the heart of technology – exploring the intricacies of process management and the fascinating world of processor types. Just as farmers carefully tend to their crops and livestock to optimize their yields, understanding these concepts can help us cultivate efficiency and productivity in the digital fields. So grab your gardening gloves and let's dig into this tech-savvy adventure together!
+Welcome, friends to my digital farmstead *(Farming analogy)*, where we're about to embark on a journey deep into the heart of technology – exploring the complexity of process management and the fascinating world of processor types. Just as farmers carefully tend to their crops and livestock to optimize their yields, understanding these concepts can help us cultivate efficiency and productivity in the digital fields. So grab your gardening gloves and let's dig into this tech-savvy adventure together!
 
 **Sowing the Seeds of Efficiency: Exploring Process Management**
 
@@ -37,20 +34,21 @@ Just as farmers rely on different crops and livestock to diversify their yields,
 
 **Cultivating Efficiency: Managing Errors and Improving Performance**
 
-Just as farmers face challenges like pests and weather conditions, IT professionals encounter errors like deadlock, livelock, and starvation in process management. These errors can impact system performance and stability, but there are different approaches for handling them.
+Just as farmers face challenges like pests and weather conditions, IT professionals encounter errors like deadlock, livelock, and starvation in process management. These errors can impact system performance and stability, but there are different approaches for handling them. 
+Learn more about [deadlock,livelock and starvation!!](https://41k36u14n.github.io/posts/Processor-Locks/)
 
 Spooling and scheduling methods, such as round-robin scheduling, are like the irrigation systems and planting schedules on a farm – they ensure that tasks are executed in a timely and efficient manner.
 
-In conclusion, process management and processor types are like the backbone and muscle of our digital farm, working tirelessly to ensure efficiency and productivity. By understanding these concepts, we can cultivate a thriving digital ecosystem that yields bountiful results. So let's roll up our sleeves and embrace the technology-driven future of farming with open arms!
+In conclusion, process management and processor types are like the backbone and muscle of our digital farm, working tirelessly to ensure efficiency and productivity. By understanding these concepts, we can cultivate a thriving digital ecosystem that yields plentiful results. So let's roll up our sleeves and embrace the technology-driven future of farming with open arms!
 
 
-Now! Let's dive deeper into the fascinating world of spooling, scheduling, and the round-robin algorithm, exploring how these concepts play vital roles in managing processes and optimizing system performance.
+But hold up alittle! Let's dive deeper into spooling, scheduling, and the round-robin algorithm, exploring how these concepts play vital roles in managing processes and optimizing system performance.
 
 **Spooling: Streamlining Data Transfer**
 
 Spooling, short for Simultaneous Peripheral Operations On-line, is a technique used in computing to improve the efficiency of data transfer between devices and programs. Think of it as a digital queueing system that allows multiple tasks to be processed concurrently, similar to how farmers organize tasks to streamline workflow on the farm.
 
-In a farming analogy, spooling can be likened to the process of filling water tanks from a single water source. Instead of waiting for each tank to fill before moving on to the next, water is continuously pumped into the tanks while other tasks are performed. Similarly, spooling allows data to be stored temporarily in a buffer (or spool) while the computer executes other tasks, preventing bottlenecks and maximizing resource utilization.
+In a farming analogy, spooling can be likened to the process of filling water tanks from a single water source. Instead of waiting for each tank to fill before moving on to the next, water is continuously pumped into the tanks while other tasks are performed. Similarly, spooling allows data to be stored temporarily in a buffer (or spool) while the computer executes other tasks, preventing bottlenecks and maximizing resource performance.
 
 **Scheduling: Optimizing Task Execution**
 
