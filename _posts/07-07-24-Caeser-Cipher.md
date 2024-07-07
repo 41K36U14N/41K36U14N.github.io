@@ -7,8 +7,6 @@ tags: [projects, cipher]
 ---
 ![Caeser Cipher header](/assets/Caesar-Cipher.png)
 
-## Caesar Cipher
-
 The Caesar Cipher is one of the simplest and most widely known encryption techniques. Named after Julius Caesar, who reportedly used it to communicate with his officials, this cipher is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet. In this blog post, we'll explore what the Caesar Cipher is, how it works, and how you can implement it in Python.
 
 ![Julius Caeser](/assets/julius-caesar.webp)
