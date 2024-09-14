@@ -1,7 +1,7 @@
 ---
 
 title:  "The diffrent file systems"
-date: 2024-04-23 00:00:00 +0800 
+date: 2024-09-10 00:00:00 +0800 
 categories: [Operating systems, File Systems] 
 tags: [operating systems, file systems] 
 ---
