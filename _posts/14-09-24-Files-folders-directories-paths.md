@@ -1,7 +1,7 @@
 ---
 
 title:  "Files, folders, directories, and paths"
-date: 2024-04-23 00:00:00 +0800 
+date: 2024-09-14 00:00:00 +0800 
 categories: [File Systems] 
 tags: [file systems] 
 ---
