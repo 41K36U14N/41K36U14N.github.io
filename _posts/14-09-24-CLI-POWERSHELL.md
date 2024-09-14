@@ -1,7 +1,7 @@
 ---
 
 title:  "Powershell"
-date: 2024-04-23 00:00:00 +0800 
+date: 2024-09-14 00:00:00 +0800
 categories: [CLI, powershell] 
 tags: [CLI, powershell] 
 ---
